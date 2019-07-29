@@ -5,7 +5,6 @@ def formatted_name(first_name, last_name):
 
 
 # this is an infinite loop!
-
 while True:
     print("\nPlease tell me your name:")
     print("enter 'quit' if you want to quit")
